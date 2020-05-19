@@ -1,0 +1,2 @@
+rootProject.name='DockerApp'
+include ':app'
